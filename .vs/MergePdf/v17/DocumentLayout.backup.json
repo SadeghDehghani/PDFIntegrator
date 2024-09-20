@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atrin\\source\\repos\\MergePdf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F107E608-7246-4CA9-BCDD-57A394EF1C51}|MergePdf\\MergePdf.csproj|c:\\users\\atrin\\source\\repos\\mergepdf\\mergepdf\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F107E608-7246-4CA9-BCDD-57A394EF1C51}|MergePdf\\MergePdf.csproj|solutionrelative:mergepdf\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F107E608-7246-4CA9-BCDD-57A394EF1C51}|MergePdf\\MergePdf.csproj|c:\\users\\atrin\\source\\repos\\mergepdf\\mergepdf\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F107E608-7246-4CA9-BCDD-57A394EF1C51}|MergePdf\\MergePdf.csproj|solutionrelative:mergepdf\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\atrin\\source\\repos\\MergePdf\\MergePdf\\frmMain.cs",
+              "RelativeDocumentMoniker": "MergePdf\\frmMain.cs",
+              "ToolTip": "C:\\Users\\atrin\\source\\repos\\MergePdf\\MergePdf\\frmMain.cs",
+              "RelativeToolTip": "MergePdf\\frmMain.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAASwFcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:52:53.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\atrin\\source\\repos\\MergePdf\\MergePdf\\frmMain.cs",
+              "RelativeDocumentMoniker": "MergePdf\\frmMain.cs",
+              "ToolTip": "C:\\Users\\atrin\\source\\repos\\MergePdf\\MergePdf\\frmMain.cs [Design]",
+              "RelativeToolTip": "MergePdf\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:52:31.041Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
